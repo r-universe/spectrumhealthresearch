@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "samplesizeCMH"]
-	path = samplesizeCMH
-	url = https://github.com/spectrumhealthresearch/samplesizecmh
-	shallow = true
-	registered = true
