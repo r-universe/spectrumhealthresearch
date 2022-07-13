@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "samplesizeCMH",
+    "oncran": true
+  }
+]
